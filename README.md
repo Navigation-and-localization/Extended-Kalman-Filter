@@ -11,3 +11,5 @@ Rudolf E. Kálmán, who was one of the primary developers of its theory.
 
 In the sensor_fusion notebook enter the name of the file you want to use in run function
 The result will be a graph of prediction movement and the true movement 
+
+![‏‏לכידה](https://user-images.githubusercontent.com/44755169/122072630-6c771f00-ce00-11eb-8c18-d1a0cb7ec26b.JPG)
